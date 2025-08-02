@@ -22,7 +22,7 @@ Includes exploratory data analysis, feature engineering, and comparison of multi
 ### [Lab-8-digit-classification](https://github.com/brittanylinaresss/My-eCornell-Portfolio-/blob/main/ImplementCNN.ipynb) 
 Digit Classification from 0-9
 
-### [Color-Jump] https://github.com/brittanylinaresss/My-eCornell-Portfolio-/blob/main/Project-2-Color-Jump) 
+### [Color-Jump] (https://github.com/brittanylinaresss/My-eCornell-Portfolio-/blob/main/Project-2-Color-Jump) 
 The purpose of my report is to detail the development of Color Jump, a game where players synchronize
 their color with a dynamic floor to survive. I cover design challenges, implementation solutions, and
 strategies for smooth gameplay, and precise scoring.
