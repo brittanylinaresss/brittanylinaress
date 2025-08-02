@@ -15,9 +15,10 @@ Right now, I’m focused on improving my ML model-building skills, collaborating
 
 Here are a few of the projects I’ve worked on recently:
 
-### 
+### [income-classification-census](https://github.com/brittanylinaresss/My-eCornell-Portfolio-/blob/main/Lab8.DefineAndSolveMLProblem.ipynb?short_path=eb7038a)
 
-
+A machine learning project that uses census data to predict whether a person earns more than $50K annually.  
+Includes exploratory data analysis, feature engineering, and comparison of multiple models like logistic regression and gradient boosting.
 ###
 
 ### 
